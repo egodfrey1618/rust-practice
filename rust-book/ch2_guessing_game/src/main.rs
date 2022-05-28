@@ -1,4 +1,5 @@
 use rand::prelude::*;
+// Question: How would I know this was "the right thing" to use? Not obvious from the docs.
 use std::cmp::Ordering;
 use std::io;
 
